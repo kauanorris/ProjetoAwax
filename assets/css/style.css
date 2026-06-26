@@ -67,3 +67,12 @@ header {
     align-items: center;
     border-bottom: 5px solid black;
 }
+
+.banner {
+    background-color: #333;
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: calc(100vh - 100px);
+}
+
